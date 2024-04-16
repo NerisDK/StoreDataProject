@@ -15,6 +15,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 public class MainActivity extends AppCompatActivity {
 
     FloatingActionButton fab;
+    String line;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
